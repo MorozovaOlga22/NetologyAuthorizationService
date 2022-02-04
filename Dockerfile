@@ -1,4 +1,4 @@
-FROM adoptopenjdk/openjdk11:jre-11.0.13_8-alpine
+FROM classmethod/openjdk-alpine-git
 
 EXPOSE 8080
 
